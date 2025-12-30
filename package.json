@@ -1,0 +1,19 @@
+{
+  "name": "admin-launcher",
+  "version": "1.0.0",
+  "description": "One-click admin CMD/PowerShell launcher for Windows",
+  "main": "src/index.js",
+  "bin": {
+    "admin-launch": "./bin/admin-launch.js",
+    "al": "./bin/admin-launch.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["windows", "admin", "cmd", "powershell", "launcher"],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
