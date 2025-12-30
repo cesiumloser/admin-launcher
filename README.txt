@@ -19,7 +19,7 @@ Admin Launcher
 Способ 2: Ручная установка
 bash
 # Склонируйте репозиторий
-git clone https://github.com/ваш-логин/admin-launcher.git
+git clone https://github.com/cesiumloser/admin-launcher.git
 cd admin-launcher
 
 # Установите глобально
@@ -49,9 +49,10 @@ Run install.bat
 Method 2: Manual Installation
 bash
 # Clone the repository
-git clone https://github.com/your-username/admin-launcher.git
+git clone https://github.com/cesiumloser/admin-launcher.git
 cd admin-launcher
 
 # Install globally
 npm install
 npm link
+
